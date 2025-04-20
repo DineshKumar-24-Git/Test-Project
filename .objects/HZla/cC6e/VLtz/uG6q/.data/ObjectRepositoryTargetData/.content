@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Er2BoQ53BkKHS4V9mIrcAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath.lightning.force.com/lightning/r/Report/00OPa000006MvtrMAC/view" CVScreenId="9ca2329a-649e-4c7d-9e0f-61fa8cb3a701" CvElementArea="1252, 211, 27, 27" CvType="Button" DesignTimeRectangle="1253, 212, 24, 24" DesignTimeScaleFactor="0.75" ElementType="Button" FuzzySelectorArgument="&lt;webctrl sfl-path='oneOne/lafAppLayoutHost:host/navexDesktopLayoutContainer/navexContentRegionNavContainer:contentRegionNavContainer/navexWorkspaceManager/navexWorkspace/lafPageHost/reportsReportBase/auraHtml:builderFrame' tag='IFRAME' /&gt;&lt;webctrl sfl-path='reportsLightningReportApp/auraHtml' tag='DIV' /&gt;&lt;webctrl aaname='Refresh' tag='BUTTON' type='button' class='slds-button slds-button_icon-border action-bar-action-refreshReport reportAction report-action-refreshReport filtersButton' /&gt;" Guid="6459116b-be28-4047-9d67-6a37c9e39ba2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Movate CSR All Case Types Report | Salesforce' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fdcfb57345bd729243e70b8ad7d0117f.png" xmlns="">0NzE8zjCO8UK0omrZ9Ar4Yw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
